@@ -2,3 +2,5 @@
 object Tracking using LucasKanade method
 
 files: objectTrackingLucas-Kanade.py
+
+libraries: cv2, numpy
